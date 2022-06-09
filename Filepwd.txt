@@ -1,0 +1,4 @@
+This file contains secret password
+
+Secret password = "PWD123@password"
+pwd2 = "cnbhdfbfdjk#behfbrhj"
